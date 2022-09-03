@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Muhtasim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Muhtasim"
+name                     : "Muhtasim Ahmed Adil"
 description              : "Muhtasim's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhtasim Ahmed Adil"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Dhaka, Bangladesh"
   email            : muhtasim.ahmed@g.bracu.ac.bd
