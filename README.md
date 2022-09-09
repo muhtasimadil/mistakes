@@ -1,1 +1,1 @@
-goto muhtasimadil.xyz
+Goto [muhtasimadil.xyz](https://muhtasimadil.xyz)
