@@ -1,8 +1,8 @@
 ---
-#layout: about
-title: About
 permalink: /about/
-subtitle: <b>"You are only born once, but you die everyday."</b> #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. these are html tags
+title: "About"
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+last_modified_at: 2022-05-27T11:59:26-04:00
 ---
 
 Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
