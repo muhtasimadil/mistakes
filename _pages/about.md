@@ -1,7 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Muhtasim is a genius yall should know about"
+author_profile: true
 ---
 
 Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
