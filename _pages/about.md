@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-#title: "About"
+permalink: /
+title: "Muhtasim"
 excerpt: "Muhtasim is a genius y'all should know about"
 author_profile: true
 ---
