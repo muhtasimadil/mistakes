@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Muhtasim is a genius yall should know about"
+#title: "About"
+excerpt: "Muhtasim is a genius y'all should know about"
 author_profile: true
 ---
 
