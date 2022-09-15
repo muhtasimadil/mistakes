@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Muhtasim"
 excerpt: "Muhtasim is a genius y'all should know about"
 author_profile: true

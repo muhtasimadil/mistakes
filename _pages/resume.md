@@ -2,4 +2,5 @@
 permalink: /resume/
 title: Résumé
 ---
-Click on the PDF icon to download my full résumé. Check out my [resume](/assets/pdf/muhtasim_resume.pdf) for details.
+Click [here](/assets/pdf/muhtasim_resume.pdf) to download my full résumé. 
+Please [contact me](/about/) if you need more details. 
