@@ -1,16 +1,15 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "Welcome to my blog!"
 categories:
-  - Edge Case
+  - welcoming blog
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - introduction
+  - welcome
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+Hello, random person! Welcome to my new blog that I haven't started writing on yet. I am stil figuring out things. See you in a few weeks. 
+
+Don't forget to revisit again! :)
 
 * Lists within lists do not break the ordered list numbering order
 * Your list styles go deep enough.
